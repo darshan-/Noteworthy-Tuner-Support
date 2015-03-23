@@ -4,8 +4,6 @@ If you have a question or a problem, please look over the titles of
 the questions here to see if it has already been addressed. The last
 question explains what to do if it has not.
 
-<h2>Contents</h2>
-
 == There are hundreds of tuners for Android; why did you create yet another? ==
 
 All of the tuners I was able to find on Android required the user to
