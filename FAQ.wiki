@@ -1,0 +1,26 @@
+<h1>Frequently Asked Questions</h1>
+
+If you have a question or a problem, please look over the titles of
+the questions here to see if it has already been addressed. The last
+question explains what to do if it has not.
+
+<h2>Contents</h2>
+
+== There are hundreds of tuners for Android; why did you create yet another? ==
+
+All of the tuners I was able to find on Android required the user to
+pay in order to remove ads.  I could find no tuner that was both free
+and ad free, and I thought the world would be better if one existed.
+
+Similarly, I could find no open-source tuner for Android, and that also
+seemed to be something worth correcting.
+
+Finally, I thought it would be a fun side project when I was
+procrastinating from my schoolwork.  It was!
+
+== Do you use any third-party code in the app? ==
+
+Yes, I use the excellent audio library
+[https://github.com/JorenSix/TarsosDSP/ TarsosDSP] to do the heavy
+lifting of determining a dominant frequency from raw audio data
+captured by the microphone.
