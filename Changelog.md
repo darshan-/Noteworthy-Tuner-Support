@@ -2,6 +2,15 @@
 
 Describes changes in every release of Noteworthy Tuner.
 
+v.0.0.4
+
+ * Attempt to convince Play Store that the layout is in fact appropriate for tablets
+
+v0.0.3
+
+ * Handle rare condition reported on obscure device
+ * Add help screen
+
 v0.0.2
 
  * Don't let screen turn off while using tuner
