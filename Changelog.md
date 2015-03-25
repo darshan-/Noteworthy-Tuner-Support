@@ -2,9 +2,16 @@
 
 Describes changes in every release of Noteworthy Tuner.
 
+v.0.0.5
+
+ * Attempting yet another method to convince Play Store that the
+   layout is in fact appropriate for tablets.  Play Store is very
+   broken in this regard.
+
 v.0.0.4
 
- * Attempt to convince Play Store that the layout is in fact appropriate for tablets
+ * Attempt to convince Play Store that the layout is in fact
+   appropriate for tablets
 
 v0.0.3
 
