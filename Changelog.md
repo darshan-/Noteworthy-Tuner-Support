@@ -2,13 +2,19 @@
 
 Describes changes in every release of Noteworthy Tuner.
 
-v.0.0.5
+v1.0.0
+
+ * Bumped version to 1.0.0 since now over 1,000 downloads and no issues reported.
+ * Cleaned up launcher icon.
+ * Now always show help menu item in Action Bar.
+
+v0.0.5
 
  * Attempting yet another method to convince Play Store that the
    layout is in fact appropriate for tablets.  Play Store is very
    broken in this regard.
 
-v.0.0.4
+v0.0.4
 
  * Attempt to convince Play Store that the layout is in fact
    appropriate for tablets
