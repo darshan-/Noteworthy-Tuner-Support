@@ -4,7 +4,7 @@ Describes changes in every release of Noteworthy Tuner.
 
 v1.0.1
 
- * Improved support for Android Marshmallow (6.0) and Nougat (7.0)
+ * Improved support for Android Marshmallow (6.0) and Nougat (7.0).
 
 v1.0.0
 
