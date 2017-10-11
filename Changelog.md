@@ -2,6 +2,14 @@
 
 Describes changes in every release of Noteworthy Tuner.
 
+v2.0.0
+
+ * Added option to set A4 to something other than 440 Hz (very common request in user reviews).
+ * Added option to add indicator for too flat or too sharp, which some beginners appreciate (requested in a user review).
+ * Added button to go to the store listing for my paid app — purchasing that helps support development of this app, and is a great way to say thanks
+ * Upgraded pitch-detection library.
+ * Minor performance improvements.
+
 v1.0.1
 
  * Improved support for Android Marshmallow (6.0) and Nougat (7.0).
