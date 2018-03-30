@@ -2,6 +2,11 @@
 
 Describes changes in every release of Noteworthy Tuner.
 
+v2.0.1
+
+ * Added option for 442.0 Hz in list of predefined A4 frequencies, as it is apparently a common one for orchestras.  (This was manually settable starting with the last release, but it's now in the predefined list of common values.)
+ * Support for Android Oreo / 8.1, including adaptive icons.
+
 v2.0.0
 
  * Added option to set A4 to something other than 440 Hz (very common request in user reviews).
