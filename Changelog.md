@@ -2,6 +2,12 @@
 
 Describes changes in every release of Noteworthy Tuner.
 
+v2.0.2
+
+ * Updated build target.
+ * Updated build tools.
+ * Updated target audience.
+
 v2.0.1
 
  * Added option for 442.0 Hz in list of predefined A4 frequencies, as it is apparently a common one for orchestras.  (This was manually settable starting with the last release, but it's now in the predefined list of common values.)
